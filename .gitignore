@@ -5,8 +5,8 @@ local_settings.py
 tasks.py
 .tox
 .vscode
-votos/staticfiles/
 env/
+myenv/
 .idea/
 Makefile
 .DS_Store
